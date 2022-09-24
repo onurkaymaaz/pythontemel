@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 l = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 nl = []
 def flatten(n):
@@ -17,13 +11,6 @@ flatten(l)
 print(nl)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
